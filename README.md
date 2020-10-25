@@ -1,1 +1,2 @@
 # ShaneMcCarthyCOHMWK5
+The objective was to create a scheduler that a user could use by inputting data into the time slots. I created three separate files for this homework assignment, HTML, CSS and JavaScript (JQuery). The time slots used in the scheduler are from 9am to 5pm, with individual one hour slots. Save buttons are there to store the user input. CSS was used to amend the body, cards and many other features in HTML.  

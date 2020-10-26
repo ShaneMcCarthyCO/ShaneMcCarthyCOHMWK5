@@ -21,18 +21,31 @@ textarea{
   border-bottom: 10px solid black;
 }
 
+.card{
+  margin-left: auto;
+  margin-right: auto;
+  list-style-type: none;
+  
+}
+
+.lists-group{
+   list-style-type: none;
+}
+
 .description{
   white-space: pre-wrap;
+  width: 400px;
 }
 
 .time-block{
   text-align: center;
-  border-radius: 65px;
+  border-radius: 50px;
+  height: 50px;
 }
 
 .row {
   white-space: pre-wrap;
-  height: 100px;
+  height: 600px;
   border-top: 1px solid white;;
 }
 
@@ -53,8 +66,8 @@ textarea{
 }
 
 .future {
-  background-color: #77dd77;
-  color: white;
+  background-color: brown 
+  color: white  
 }
 
 .saveBtn {
